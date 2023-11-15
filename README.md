@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lesliejaiye
-- 👀 I’m interested in cs, skincare and websites
-- 🌱 I’m currently learning swift
+- 👀 I’m interested in cs, skincare and product design (websites, products, etc..)
+- 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ... :)
 
